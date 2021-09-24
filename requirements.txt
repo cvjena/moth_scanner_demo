@@ -1,0 +1,11 @@
+numpy
+pyaml
+tqdm
+matplotlib
+jupyter
+
+chainercv
+chainer~=7.8.0
+
+cvmodelz
+chainer_addons
