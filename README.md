@@ -25,13 +25,12 @@ Download the weights of the detector and the classifier and move them in the sam
 *Password for both downloads: `Moth_Scanner`*
 
 ## Licence
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+This work is licensed under a [GNU Affero General Public License][agplv3].
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+[![AGPLv3][agplv3-image]][agplv3]
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[agplv3]: https://www.gnu.org/licenses/agpl-3.0.html
+[agplv3-image]: https://www.gnu.org/graphics/agplv3-88x31.png
 [paper]: https://pub.inf-cv.uni-jena.de/search/Korsch21_DLP
 [miniconda]: https://docs.conda.io/en/latest/miniconda.html
 [1]: https://www.inf-cv.uni-jena.de/eu_moths_dataset
